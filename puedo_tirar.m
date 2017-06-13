@@ -1,4 +1,4 @@
-%funcion que se encarga de ver si pueded tirar o no (condicion)
+%funcion que se encarga de ver si puede tirar o no (condicion)
 
 function disparo = puedo_tirar(dni)
   
